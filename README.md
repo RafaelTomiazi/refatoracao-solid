@@ -1,6 +1,6 @@
 # TechStore - Refatoração com SOLID
 
-Atividade da disciplina Design de Software (Unoeste). O projeto original é da professora: [vanessaborges2/refatoracao-solid](https://github.com/vanessaborges2/refatoracao-solid).
+Atividade da disciplina Design de Software (Unoeste).
 
 O sistema cria pedidos, calcula desconto, frete, pagamento, baixa estoque, salva o pedido e avisa o cliente. Ele já funcionava, mas quase tudo ficava dentro do `OrderService.process()`. A ideia aqui foi separar as responsabilidades sem mudar o resultado.
 
